@@ -8,3 +8,4 @@ green
 red
 orange
 new unicorn
+indigo
